@@ -1,2 +1,0 @@
-leiras: https://medium.com/flutter-community/flutter-push-pop-push-1bb718b13c31
-github sample project: https://github.com/PoojaB26/NavigatorsDemo-Flutter
