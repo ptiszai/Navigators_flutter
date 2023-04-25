@@ -4,8 +4,8 @@
 Overview of Navigator methods in Flutter.
 Experiment with the sample project to learn more about how Navigator methods like pushReplacement, popAndPushNamed, etc work in Flutter.<br>
 
-![Flutter](Navigators_flutter/images/fluttericon1.png) : [Flutter](https://flutter.dev/).<br>
-![Dart](Navigators_flutter/images/darticon1.png) : [Dart](https://dart.dev/).<br>
+![Flutter](images/fluttericon1.png) : [Flutter](https://flutter.dev/).<br>
+![Dart](images/darticon1.png) : [Dart](https://dart.dev/).<br>
 
 [Navigation](https://docs.flutter.dev/cookbook/navigation).<br>
 
@@ -25,7 +25,7 @@ popAndPushNamed(...);
 ```
 <div align="center">
 
-![](Navigators_flutter/images/s1.png)
+![](images/s1.png)
 
 </div><br>
 
