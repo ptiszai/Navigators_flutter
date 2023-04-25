@@ -2,7 +2,7 @@
 
 # Navigators Flutter
 Overview of Navigator methods in Flutter.
-Experiment with the sample project to learn more about how Navigator methods like pushReplacement, popAndPushNamed, etc work in Flutter.<br>
+Experiment with the sample project to learn more about how Navigator methods like pushReplacement, popAndPushNamed, etc work in Flutter.<br><br>
 
 ![Flutter](images/fluttericon1.png) : [Flutter](https://flutter.dev/).<br>
 ![Dart](images/darticon1.png) : [Dart](https://dart.dev/).<br>
